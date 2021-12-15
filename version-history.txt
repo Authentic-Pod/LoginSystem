@@ -1,0 +1,13 @@
+Version 0.1.0
+
+This program has two main functions
+1. Sign up
+	Users can create a new username and password, which will then be stored in an external text file.
+2. Log in
+	Users can log in to an existing username if they know the password
+
+Limitations:
+1. Password stored in plain text
+2. Bad UI
+3. No system in place to ensure there are no duplicate usernames
+4. No form of password strength checks in place
