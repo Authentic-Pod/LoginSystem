@@ -1,0 +1,5 @@
+NEVER ENTER REAL USERNAMES OR PASSWORDS INTO THIS PROGRAM
+
+While this program does not do anything with malicious with anything entered, there are still several security risks such as:
+1. Every username and password entered is stored in plain text in the 'data.txt' file in the same directory as the program. Anyone with access to this file will be able to see all usernames and passwords ever entered into this program.
+2. The copy of this program you receive could have been tampered with, and have malicious code in it.
